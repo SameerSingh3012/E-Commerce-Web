@@ -8,24 +8,15 @@ I have made this project with Angular + Spring Boot, React + Spring Boot, React 
 
 A full-stack eCommerce application built with React and Spring Boot And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
-## Client
-###### Angular : https://github.com/developer207/ecommerce-angular
-
-## Server
-###### spring boot: https://github.com/ashok0001/e-commerce-server
-###### node js: https://github.com/ashok0001/ecommerce-node
-
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 - [Screenshots](#screenshots)
 
 ## Features
@@ -37,9 +28,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - Order history and tracking.
 - Admin panel to manage products, categories, and orders.
 
-## Demo
-
-[shopwithzosh](https://shopwithzosh.vercel.app/)
 
 ## Technologies Used
 
@@ -87,16 +75,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- Ashok Zarmariya
-- ashokzarmariya47@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
-
-Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
 
 ## ScreenShots
 
